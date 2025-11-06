@@ -43,3 +43,78 @@ Key features include:
 ```bash
 cd backend
 python -m venv env
+
+Activate Virtual Environment
+
+
+Windows
+.\env\Scripts\activate
+
+
+
+Ubuntu / macOS
+source env/bin/activate
+
+
+
+Run Flask Server
+python main.py
+
+
+2️⃣ Setup React Frontend
+cd ..
+cd inventory-frontend
+npm install
+npm start
+
+Your frontend will run at:
+👉 http://localhost:3000
+and backend at:
+👉 http://127.0.0.1:5000
+
+🧾 Folder Structure
+InventoryManagement/
+├── backend/
+│   ├── main.py
+│   ├── requirements.txt
+│   ├── static/
+│   ├── templates/
+│   └── invoices/
+│
+└── inventory-frontend/
+    ├── src/
+    │   ├── components/
+    │   │   ├── NewBill.js
+    │   │   ├── Inventory.js
+    │   │   ├── History.js
+    │   │   └── Analysis.js
+    │   ├── App.js
+    │   └── Navbar.js
+    └── package.json
+
+
+🧠 Future Improvements
+
+
+Authentication and user roles
+
+
+Cloud database integration
+
+
+Export reports (CSV, PDF)
+
+
+Dashboard for profit and expense analysis
+
+
+
+📜 License
+This project is open-source and available under the MIT License.
+
+Developed by Vishwa Patil 🚀
+
+---
+
+Would you like me to make this README include **API endpoint documentation** (like `/inventory`, `/bills`, `/analysis` etc.) as well?
+
