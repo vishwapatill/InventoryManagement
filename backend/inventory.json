@@ -1,0 +1,51 @@
+{
+    "admin": {
+        "store_name": "MyShop",
+        "contact": "9876543210",
+        "email": "support@myshop.in"
+    },
+    "items": [
+        {
+            "pid": "A101",
+            "name": "Wireless Mouse",
+            "description": "Ergonomic 2.4GHz wireless mouse with USB receiver",
+            "price": 499.0,
+            "quantity": 26
+        },
+        {
+            "pid": "A102",
+            "name": "Mechanical Keyboard",
+            "description": "RGB backlit mechanical keyboard with blue switches",
+            "price": 2499.0,
+            "quantity": 99
+        },
+        {
+            "pid": "A103",
+            "name": "Laptop Stand",
+            "description": "Adjustable aluminum laptop stand for 13\u00e2\u20ac\u201c17 inch laptops",
+            "price": 899.0,
+            "quantity": 29
+        },
+        {
+            "pid": "A104",
+            "name": "USB-C Cable",
+            "description": "1m fast-charging braided USB-C cable",
+            "price": 199.0,
+            "quantity": 49
+        },
+        {
+            "pid": "A105",
+            "name": "Bluetooth Speaker",
+            "description": "Portable waterproof Bluetooth speaker with 10h battery life",
+            "price": 1299.0,
+            "quantity": 25
+        },
+        {
+            "pid": "50eb059b",
+            "name": "Parle G",
+            "description": "Biscuit",
+            "price": 10.0,
+            "quantity": 94
+        }
+    ]
+}

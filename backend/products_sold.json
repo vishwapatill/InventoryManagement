@@ -1,0 +1,32 @@
+[
+    {
+        "pid": "A102",
+        "product": "Mechanical Keyboard",
+        "quantity": 1,
+        "timestamp": "2025-11-06T23:31:49.698684"
+    },
+    {
+        "pid": "A101",
+        "product": "Wireless Mouse",
+        "quantity": 1,
+        "timestamp": "2025-11-06T23:31:49.701693"
+    },
+    {
+        "pid": "A103",
+        "product": "Laptop Stand",
+        "quantity": 1,
+        "timestamp": "2025-11-06T23:31:49.703709"
+    },
+    {
+        "pid": "A104",
+        "product": "USB-C Cable",
+        "quantity": 1,
+        "timestamp": "2025-11-06T23:31:49.705708"
+    },
+    {
+        "pid": "50eb059b",
+        "product": "Parle G",
+        "quantity": 6,
+        "timestamp": "2025-11-06T23:42:16.500672"
+    }
+]

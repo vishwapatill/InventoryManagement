@@ -1,0 +1,61 @@
+[
+    {
+        "invoice_id": "19fd40f1",
+        "date": "06-11-2025 23:31:49",
+        "payment_method": "cash",
+        "items": [
+            {
+                "pid": "A102",
+                "name": "Mechanical Keyboard",
+                "price": 2499,
+                "quantity": 1,
+                "subtotal": 2499
+            },
+            {
+                "pid": "A101",
+                "name": "Wireless Mouse",
+                "price": 499,
+                "quantity": 1,
+                "subtotal": 499
+            },
+            {
+                "pid": "A103",
+                "name": "Laptop Stand",
+                "price": 899,
+                "quantity": 1,
+                "subtotal": 899
+            },
+            {
+                "pid": "A104",
+                "name": "USB-C Cable",
+                "price": 199,
+                "quantity": 1,
+                "subtotal": 199
+            }
+        ],
+        "subtotal": 4096,
+        "gst": 737.28,
+        "additional_tax": 81.92,
+        "discount": 0,
+        "total": 4915.2
+    },
+    {
+        "invoice_id": "cd3ac55d",
+        "date": "06-11-2025 23:42:16",
+        "payment_method": "cash",
+        "items": [
+            {
+                "pid": "50eb059b",
+                "name": "Parle G",
+                "price": 10,
+                "quantity": 6,
+                "subtotal": 60
+            }
+        ],
+        "subtotal": 60,
+        "gst": 10.799999999999999,
+        "additional_tax": 1.2,
+        "discount": 0,
+        "total": 72.0
+    }
+]
